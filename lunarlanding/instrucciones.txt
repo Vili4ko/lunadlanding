@@ -1,0 +1,1 @@
+naveimg(height20%;margin:0;auto:display:block)
